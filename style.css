@@ -1,8 +1,25 @@
 body{
    background-color: bisque;
+   
+}
+h1{
+font-size: xx-large;
+ font-family: arial;
+color: black;
+}
+
+
+h2{
+    font-size: xx-large;
+    font-family: arial;
+    color: black;
 
 }
 
 
+h3{
+    font-size: xx-large;
+    font-family: arial;
+    color: black;
 
-
+}
